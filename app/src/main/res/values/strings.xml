@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hike Assignment</string>
+    <string name="no_internet">Not connected to Internet !!!</string>
+    <string name="enter_topic">Enter Topic</string>
+</resources>
